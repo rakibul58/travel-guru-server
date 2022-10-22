@@ -1,0 +1,17 @@
+[
+    {
+        "id": "01",
+        "name": "Sunderbans",
+        "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque vitae reprehenderit at nesciunt dolor mollitia, nisi illo placeat deserunt quasi!"
+    },
+    {
+        "id": "02",
+        "name": "Sreemangal",
+        "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque vitae reprehenderit at nesciunt dolor mollitia, nisi illo placeat deserunt quasi!"
+    },
+    {
+        "id": "03",
+        "name": "Cox's Bazar",
+        "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque vitae reprehenderit at nesciunt dolor mollitia, nisi illo placeat deserunt quasi!"
+    }
+]
